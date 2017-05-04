@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ViewBreakout()
+comment0.text=\r\n\ Construct\ the\ view\ of\ the\ game\r\n
+comment1.params=g
+comment1.target=void\ drawActualPicture(java.awt.Graphics2D)
+comment1.text=\r\n\ \ Code\ called\ to\ draw\ the\ current\ state\ of\ the\ game\r\n\ \ \ Uses\ draw\:\ \ \ \ \ \ \ Draw\ a\ shape\r\n\ \ \ \ \ \ \ \ fill\:\ \ \ \ \ \ \ Fill\ the\ shape\r\n\ \ \ \ \ \ \ \ setPaint\:\ \ \ Colour\ used\r\n\ \ \ \ \ \ \ \ drawString\:\ Write\ string\ on\ display\r\n\ \ @param\ g\ Graphics\ context\ to\ use\r\n
+comment2.params=g\ go
+comment2.target=void\ display(java.awt.Graphics2D,\ GameObject)
+comment3.params=aModel\ arg
+comment3.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment3.text=\r\n\ Called\ from\ the\ model\ when\ its\ state\ has\ changed\r\n\ @param\ aModel\ Model\ to\ be\ displayed\r\n\ @param\ arg\ \ \ \ Any\ arguments\r\n
+comment4.params=g
+comment4.target=void\ update(java.awt.Graphics)
+comment4.text=\r\n\ Called\ by\ repaint\ to\ redraw\ the\ Model\r\n\ @param\ g\ \ \ \ Graphics\ context\r\n
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment5.text=\r\n\ Called\ when\ window\ is\ first\ shown\ or\ damaged\r\n\ @param\ g\ \ \ \ Graphics\ context\r\n
+comment6.params=g
+comment6.target=void\ drawPicture(java.awt.Graphics2D)
+comment7.params=aPongController
+comment7.target=void\ setController(ControllerBreakout)
+comment7.text=\r\n\ Need\ to\ be\ told\ where\ the\ controller\ is\r\n\ @param\ aPongController\ The\ controller\ used\r\n
+numComments=8

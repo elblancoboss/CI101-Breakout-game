@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createGameObjects()
+comment1.params=
+comment1.target=void\ startGame()
+comment2.params=
+comment2.target=GameObject\ getBall()
+comment3.params=
+comment3.target=GameObject[]\ getBricks()
+comment4.params=
+comment4.target=GameObject\ getBat()
+comment5.params=n
+comment5.target=void\ addToScore(int)
+comment6.params=
+comment6.target=int\ getScore()
+comment7.params=
+comment7.target=void\ stopGame()
+comment8.params=dist
+comment8.target=void\ moveBat(float)
+comment8.text=\r\n\ Move\ the\ bat\ dist\ pixels.\ (-dist)\ is\ left\ or\ (+dist)\ is\ right\r\n\ @param\ dist\ -\ Distance\ to\ move\r\n
+comment9.params=
+comment9.target=void\ modelChanged()
+comment9.text=\r\n\ Model\ has\ changed\ so\ notify\ observers\ so\ that\ they\r\n\ \ can\ redraw\ the\ current\ state\ of\ the\ game\r\n
+numComments=10

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=aBreakOutModel
+comment0.target=ModelActivePart(ModelBreakout)
+comment1.params=
+comment1.target=void\ stopGame()
+comment1.text=\r\n\ Stop\ game,\ thread\ will\ finish\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Code\ to\ position\ the\ ball\ after\ time\ interval\r\n\ \ and\ work\ out\ what\ happens\ next\r\n
+numComments=3
